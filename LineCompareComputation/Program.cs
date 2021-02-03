@@ -7,7 +7,6 @@ namespace LineCompareComputation
         static void Main(string[] args)
         {
             Console.WriteLine(" Welcome to Line Comparison Computation Program");
-
             //Coordinates of Line1
             double x1x = 4;
             double y1x = 6;
